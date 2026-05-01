@@ -14,8 +14,7 @@ Personal portfolio website of **Abhishek Singh Khati** — 17-year-old Table Ten
 - 🥇 3x District Champion — Almora (Consecutive)
 - 🥇 State Rank #1 — Uttarakhand Table Tennis
 - 🥈 State Rank #2 — SGFI Uttarakhand
-- 🏅 National Games 2025 — Uttarakhand Representative
-- 🏅 National Championship — Ladakh
+- 🏅 State Level Player 
 
 ## 🌐 Live Site
 
